@@ -11,6 +11,3 @@
 
 * Talk to me: lucasrenandns96@gmail.com
 
-
- 
-
