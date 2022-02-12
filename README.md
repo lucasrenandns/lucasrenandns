@@ -1,4 +1,4 @@
-## Hello, World! I'm Lucas Renan  👋
+## Hello, World! I'm Lucas Renan  😎
 ### *Information technology* student   💻
 ### Welcome to my Perfil !
 
