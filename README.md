@@ -10,5 +10,5 @@
     </p>
 </a>
 
-* Talk to me: lucasrenandns96@gmail.com
+* Contact: lucasrenandns96@gmail.com
 
