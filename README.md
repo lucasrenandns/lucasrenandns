@@ -1,5 +1,5 @@
 ## **Hello, World**!  🌎 
-## **'m Lucas Renan**  👋 
+## **I'm Lucas Renan**  👋 
 ### **Student of** 
 * Information Technology
 * Web development
