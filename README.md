@@ -2,7 +2,7 @@
 ## **I'm Lucas Renan**  👋 
 ### **Student of** 
 * Information Technology
-* Web development
+* Web Development
 * Computer Programming
 ### **Welcome to my Perfil !**
 
