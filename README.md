@@ -1,6 +1,9 @@
 ## Hello, World!  🌎 
 ## I'm Lucas Renan  👋 
-### Student of information technology, web development and computer programming   💻
+### Student of 
+* **Information Technology** 
+* **Web development** 
+* **Computer Programming**   💻
 ### Welcome to my Perfil !
 
 
