@@ -1,10 +1,10 @@
-## Hello, World!  🌎 
-## I'm Lucas Renan  👋 
-### Student of 
+## **Hello, World**!  🌎 
+## **'m Lucas Renan**  👋 
+### **Student of** 
 * Information Technology
 * Web development
 * Computer Programming
-### Welcome to my Perfil !
+### **Welcome to my Perfil !**
 
 
 <a align="center">
