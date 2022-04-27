@@ -8,5 +8,3 @@
     </p>
 </a>
 
-* Contact: lucasrenandns96@gmail.com
-
